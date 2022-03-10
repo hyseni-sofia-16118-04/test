@@ -29,5 +29,7 @@
 
 [Google](https://www.google.com/)
  
-[Λογότυπο του e-courses](https://ecourses.alis.uniwa.gr/pluginfile.php/1/theme_adaptable/logo/1629889299/top_header.png)
+![Λογότυπο του e-courses](https://ecourses.alis.uniwa.gr/pluginfile.php/1/theme_adaptable/logo/1629889299/top_header.png)
+
+
 
